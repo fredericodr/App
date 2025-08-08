@@ -9,3 +9,6 @@ def division(x,y):
 
 def power(x,y):
     return x**y
+
+def another_one():
+    return "dj kalhed"
